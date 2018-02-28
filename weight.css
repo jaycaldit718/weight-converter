@@ -38,3 +38,10 @@ h1 {
     font-weight: bolder;
     font-size: 40px;
 }
+
+#ounces {   background-color: #247f50;
+    padding: 25px;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 40px;}
