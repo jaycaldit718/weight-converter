@@ -1,0 +1,40 @@
+.container {
+
+    background-color: #939e98;
+    text-align: center;
+    width: 100%;
+}
+
+
+h1 {
+    font-family: tahoma;
+    font-size: 55px;
+    font-weight: 300;
+}
+
+#grams {
+
+    background-color: #247f50;
+    padding: 25px;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+
+.content {
+    padding-top: 20px;
+    background-color: #353d39;
+    width: 100%;
+    height: 100%;
+}
+
+#kilograms {
+    background-color: #247f50;
+    padding: 25px;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: 40px;
+}
